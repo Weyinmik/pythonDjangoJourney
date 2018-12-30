@@ -21,7 +21,7 @@ print(new_list)     #Result:["Hello", 100, 23.47, "one", "two", "three"]
 #2. Define Empty List
 empty_list = []
 print(empty_list)       #Result: []. 
-#Why define empty list. Because list are mutable we can always add objects to and empty list.
+#Why define empty list. Because list are mutable we can always add objects to an empty list.
 
 #3. List Indexing and Slicing works the same as indexing in string data type
 students = ["Robert", "Chris", "Katrina", "Scarlet"]

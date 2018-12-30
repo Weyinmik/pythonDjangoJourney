@@ -1,6 +1,8 @@
 """
 We have integers and floats
 """
+
+
 a = 14
 print(a)
 

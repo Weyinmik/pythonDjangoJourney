@@ -5,7 +5,7 @@ Booleans are very important in control flow and logic
 """
 print(True)                 #Result: True
 
-print(true)                 #Result: true not defined
+#print(true)                 #Result: true not defined
 
 print(False)                 #Result: False
 

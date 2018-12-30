@@ -88,7 +88,7 @@ for i in my_dict:
 
 
 # To print out keys and corresponding values in the output - ('k1',1),('k2',2), ('k3',3)
-for i in my_dict.items:
+for i in my_dict.items():
     print(i)
 
 # To print out  only values in the output - 1,2,3
@@ -149,7 +149,7 @@ for letters in my_string:
         continue
     print(letters)
 
-# Print out 0,1,2,3,4
+# Print out 0,1,2
 i = 0
 while i < 5: 
     if i == 3:

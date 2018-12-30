@@ -12,7 +12,7 @@ The ELSE is an optional statement to the IF
 The ELIF statement allows you to check multiple expressions for TRUE value
 Similar to the ELSE, the ELIF statement is an optional statement
 
-The can be a number of ELIF statements which are following an IF statement.
+There can be a number of ELIF statements which are following an IF statement.
 E.g:
 if expression1:
     statement(s)
